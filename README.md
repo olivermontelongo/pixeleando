@@ -72,7 +72,7 @@ Este proyecto consiste en el desarrollo de un dashboard de gestión de campañas
 ### Avances y Ajustes Realizados (Sprint 2 - Fase Conceptual)
 
 **NOTA IMPORTANTE:**
-**Debido a limitaciones temporales y la falta de acceso a un entorno de desarrollo React en este momento, los "avances" descritos para el Sprint 2 son de naturaleza conceptual y de planificación. No ha sido posible implementar código funcional o generar capturas de pantalla de estos progresos. Este enfoque teórico permite mantener la coherencia del proyecto y la planificación, en espera de una futura implementación práctica.**
+**Debido a limitaciones temporales y la falta de acceso a un entorno de desarrollo React en este momento, los "avances" descritos para el Sprint 2 son de naturaleza conceptual y de planificación. No ha sido posible implementar código funcional o generar capturas de pantalla de estos progresos en el repositorio. La documentación detallada de esta fase se ha entregado en la plataforma escolar.**
 
 Los ajustes en esta fase se enfocaron en la priorización y simplificación de las características para asegurar una base sólida para futuras implementaciones, definiendo la estructura y el alcance inicial de cada nueva funcionalidad:
 
@@ -104,12 +104,6 @@ Este proyecto utiliza [React](https://reactjs.org/) y [Node.js](https://nodejs.o
     npm start
     ```
     La aplicación se abrirá automáticamente en tu navegador en `http://localhost:3000`.
-
----
-
-## Documentación Adicional
-
-*   [Actividad 2 - Documento completo de planificación y ajustes del Sprint 2](docs/Actividad2/documento_actividad_2.pdf) *(Asegúrate de cambiar `documento_actividad_2.pdf` por el nombre real de tu archivo y la ruta si es diferente. Si aún no tienes esta carpeta o el archivo, el enlace no funcionará, pero es buena práctica dejarlo.)*
 
 ---
 
