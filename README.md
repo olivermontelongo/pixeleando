@@ -75,3 +75,8 @@ Para ejecutar el proyecto localmente:
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/olivermontelongo/pixeleando-scrum-sprint1.git
+
+
+  ## 📘 Documentación adicional
+- Bitácora de cambios: BITACORA.md
+- Roles del equipo: ROLES.md 
