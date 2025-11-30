@@ -59,7 +59,7 @@ function App() {
 
       {/* Footer */}
       <footer style={{ marginTop: "40px", fontSize: "14px", color: "#555" }}>
-        <p>📅 Sprint 1 – Octubre 2025</p>
+        <p>📅 Sprint 1 – Noviembre 2025</p>
         <p>👨‍💻 Responsable: Oliver Montelongo</p>
         <p>📂 Repositorio GitHub: /documentacion + /src</p>
       </footer>
